@@ -8,3 +8,24 @@ ROW FORMAT DELIMITED
 FIELDS TERMINATED BY '\t'
 LINES TERMINATED BY '\n'
 STORED AS TEXTFILE
+
+Consultas: 
+
+SELECT * FROM employee WHERE salary>30000;
+
+SELECT * FROM employee ORDER BY name DESC;
+
+#AÑADIR MAS ELEMENTOS PARA REALIZAR DICHA CONSULTA
+SELECT name,count(*) FROM employee GROUP BY name;
+
+#UNIONES 
+
+SELECT c.eid, c.name, c.salary FROM porfin c JOIN empleado o ON (c.eid = o.eid);
+
+SELECT c.eid, c.name, c.salary FROM porfin c LEFT OUTER JOIN empleado o ON (c.eid = o.eid);
+
+SELECT c.eid, c.name, c.salary FROM porfin c RIGHT OUTER JOIN ORDERS empleado o ON (c.eid = o.eid);
+
+SELECT c.eid, c.name, c.salary FROM porfin c RIGHT OUTER JOIN empleado o ON (c.eid = o.eid);
+
+
