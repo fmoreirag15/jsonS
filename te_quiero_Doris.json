@@ -1,0 +1,92 @@
+[
+{
+issue_id: "84",
+volume: "5",
+number: "1",
+year: "2021",
+date_published: "2021-06-30 00:00:00",
+title: "Revista Ciencias Sociales y Económicas",
+doi: "http://doi.org/10.18779/csye.v5i1",
+cover: "https://revistas.uteq.edu.ec/public/journals/3/cover_issue_84_es_ES.jpg"
+},
+{
+issue_id: "81",
+volume: "4",
+number: "2",
+year: "2020",
+date_published: "2020-12-31 00:00:00",
+title: "Revista Ciencias Sociales y Económicas",
+doi: "http://doi.org/10.18779/csye.v4i2",
+cover: "https://revistas.uteq.edu.ec/public/journals/3/cover_issue_81_es_ES.jpg"
+},
+{
+issue_id: "60",
+volume: "4",
+number: "1",
+year: "2020",
+date_published: "2020-06-30 18:33:03",
+title: "Revista Ciencias Sociales y Económicas",
+doi: "http://doi.org/10.18779/csye.v4i1",
+cover: "https://revistas.uteq.edu.ec/public/journals/3/cover_issue_60_es_ES.jpg"
+},
+{
+issue_id: "72",
+volume: "3",
+number: "2",
+year: "2019",
+date_published: "2019-12-31 00:00:00",
+title: "Revista Ciencias Sociales y Económicas",
+doi: "http://doi.org/10.18779/csye.v3i2",
+cover: "https://revistas.uteq.edu.ec/public/journals/3/cover_issue_72_es_ES.jpg"
+},
+{
+issue_id: "71",
+volume: "3",
+number: "1",
+year: "2019",
+date_published: "2019-06-30 00:00:00",
+title: "Ciencias Sociales y Económicas (enero-junio 2019)",
+doi: "http://doi.org/10.18779/csye.v3i1",
+cover: "https://revistas.uteq.edu.ec/public/journals/3/cover_issue_71_es_ES.jpg"
+},
+{
+issue_id: "70",
+volume: "2",
+number: "2",
+year: "2018",
+date_published: "2018-12-26 00:00:00",
+title: "Revista de Ciencias Sociales y Económicas (julio-diciembre 2018)",
+doi: "http://doi.org/10.18779/csye.v2i2",
+cover: "https://revistas.uteq.edu.ec/public/journals/3/cover_issue_70_es_ES.jpg"
+},
+{
+issue_id: "69",
+volume: "2",
+number: "1",
+year: "2018",
+date_published: "2018-06-29 00:00:00",
+title: "Ciencias Sociales y Económicas (enero-junio 2018)",
+doi: "http://doi.org/10.18779/csye.v2i1",
+cover: "https://revistas.uteq.edu.ec/public/journals/3/cover_issue_69_es_ES.jpg"
+},
+{
+issue_id: "68",
+volume: "1",
+number: "2",
+year: "2017",
+date_published: "2017-12-24 00:00:00",
+title: "julio-diciembre (2017)",
+doi: "http://doi.org/10.18779/csye.v1i2",
+cover: "https://revistas.uteq.edu.ec/public/journals/3/cover_issue_68_es_ES.jpg"
+},
+{
+issue_id: "67",
+volume: "1",
+number: "1",
+year: "2017",
+date_published: "2017-06-01 00:00:00",
+title: "Enero-Junio (2017)",
+doi: "http://doi.org/10.18779/csye.v1i1",
+cover: "https://revistas.uteq.edu.ec/public/journals/3/cover_issue_67_es_ES.jpg"
+}
+]
