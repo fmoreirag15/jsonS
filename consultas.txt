@@ -1,0 +1,10 @@
+https://docs.gethue.com/developer/api/
+
+CREATE SCHEMA IF NOT EXISTS ejemplo;
+
+CREATE TABLE IF NOT EXISTS empleado(eid int, name STRING, salary String, destination STRING)
+COMMENT 'ejemplo details'
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY '\t'
+LINES TERMINATED BY '\n'
+STORED AS TEXTFILE
